@@ -1,3 +1,10 @@
+
+/****************************
+*	CREATED BY:				*
+*		- Héctor Ullate		*
+*		- Carlos Segundo	*
+*****************************/
+
 #include <pwd.h>
 #include <stdio.h>
 #include <unistd.h>
